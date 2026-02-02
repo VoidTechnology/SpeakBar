@@ -10,8 +10,6 @@ Designed to sit on top of your slides on a screen/projector.
 
 ## Demo
 
-> Replace the placeholder below with your 15–20s GIF.
-
 ![SpeakBar demo](./assets/speakbar-demo.gif)
 
 ## Download
