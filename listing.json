@@ -1,0 +1,61 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "product": {
+    "name": "Speakbar",
+    "tagline": "Real-time English subtitle bar for in-person talks & meetings (offline, macOS 26+)",
+    "website": "https://voidtech.com/speakbar",
+    "github": "https://github.com/VoidTechnology/SpeakBar",
+    "primary_cta": "download"
+  },
+  "platforms": [
+    {
+      "platform": "x",
+      "status": "posted",
+      "url": "https://x.com/ripple_z",
+      "last_updated": "2026-02-02",
+      "notes": "Main account. Keep a weekly cadence. Prefer short demo clips + one clear CTA."
+    },
+    {
+      "platform": "linkedin",
+      "status": "posted",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7422263437076123649/",
+      "last_updated": "2026-02-02",
+      "notes": "Consider 1 story post + 1 how-it-works post. Pin download link in first comment."
+    },
+    {
+      "platform": "product_hunt",
+      "status": "listed",
+      "url": "https://www.producthunt.com/products/speakbar-2",
+      "last_updated": "2026-02-02",
+      "notes": "Gather reviews. Post a founder comment with updates + roadmap."
+    },
+    {
+      "platform": "github_landing",
+      "status": "live",
+      "url": "https://github.com/VoidTechnology/SpeakBar",
+      "last_updated": "2026-02-02",
+      "notes": "README landing repo. Keep screenshot/gif lightweight."
+    },
+    {
+      "platform": "alternative_to",
+      "status": "todo",
+      "url": null,
+      "last_updated": null,
+      "notes": "Create product page. Add 3 screenshots + short description."
+    },
+    {
+      "platform": "indie_hackers",
+      "status": "todo",
+      "url": null,
+      "last_updated": null,
+      "notes": "Post a build story + ask for feedback from speakers/trainers."
+    },
+    {
+      "platform": "reddit",
+      "status": "todo",
+      "url": null,
+      "last_updated": null,
+      "notes": "Find relevant subs (publicspeaking, Toastmasters, accessibility, macapps). Avoid spam; contribute first."
+    }
+  ]
+}
