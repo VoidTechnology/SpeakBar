@@ -10,7 +10,7 @@ Designed to sit on top of your slides on a screen/projector.
 
 ## Demo
 
-![SpeakBar demo](./assets/speakbar-demo.gif)
+![SpeakBar demo](./assets/speakbar-demo.png)
 
 ## Download
 
